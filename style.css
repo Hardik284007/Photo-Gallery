@@ -1,0 +1,47 @@
+body{
+    text-align: center;
+}
+.menu{
+   list-style: none; 
+    font-family: fantasy;
+    position: fixed;
+    text-align: center;
+    float:top; 
+    cursor: pointer;
+    color: black;
+    
+    
+}
+li{
+    float:left;
+    padding: 80px;
+    font-size: 40px;
+}
+#gi{
+   text-align: center;
+}
+h2{
+    font-size: 50px;
+}
+h1{
+    font-size: 40px;
+}
+h3{
+    font-size: 40px;
+}
+.container{
+    text-align: center;
+}
+img{
+  width: 300px;
+    height: 300px;
+    margin-top:50px;
+       margin-left:50px;
+}
+#f{
+height:311px;
+    width:1000px;
+}
+#gh{
+height:300px;
+}
